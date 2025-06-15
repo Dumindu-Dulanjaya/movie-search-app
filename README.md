@@ -19,7 +19,7 @@ A sleek and responsive movie search app built with **ReactJS** and the **OMDb AP
 ![App Screenshot](your-screenshot-url-if-any)
 
 ## 🌐 Live Demo
-Coming soon...
+https://movie-search-app-pi-mauve.vercel.app/
 
 ## 📦 Getting Started
 ```bash
